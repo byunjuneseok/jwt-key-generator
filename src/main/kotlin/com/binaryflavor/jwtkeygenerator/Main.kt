@@ -1,7 +1,5 @@
 package com.binaryflavor.jwtkeygenerator
 
-import com.binaryflavor.com.binaryflavor.jwtkeygenerator.Algorithms
-import com.binaryflavor.com.binaryflavor.jwtkeygenerator.JwtKeyGenerator
 import kotlinx.cli.ArgParser
 import kotlinx.cli.ArgType
 import kotlinx.cli.default
